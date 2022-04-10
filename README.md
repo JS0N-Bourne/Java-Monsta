@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Java-Monsta
-- 👀 I’m interested in ... music, graphic design, coding, travel
+- 👀 I’m interested in ... music, graphic design, coding, travel and cats
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... um, not quite sure yet. 
 - 📫 How to reach me ... on Twitter at Java_Monsta
