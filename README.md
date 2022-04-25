@@ -23,7 +23,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">Random Cocktail Generator App</h2>
+				<h3 align="center" color="white">Random Cocktail Generator</h2>
 				<div align="center" >  
 					<a href='https://random-cocktails.netlify.app/'>
 						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/cocktail_generator.gif" alt="Breaking-bad-		infopage" height="100%" />
@@ -42,7 +42,7 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Hipster Virtual Vintage Calculator App</h2>
+				<h3 align="center" color="white">Hipster Virtual Vintage Calculator</h2>
 				<div align="center" >  
 					<a href='https://hipster-calculator.netlify.app/'>
 						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/hipster_calculator.gif" alt="Pick 'em Drinks!" height="100%" />
@@ -61,7 +61,7 @@
 				</div>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">Basic JavaScript Calculator App</h2>
+			<h3 align="center" color="white">Basic JavaScript Calculator</h2>
 			<div align="center" >  
 				<a href='https://simply-a-calculator.netlify.app/'>
 					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/basic_calculator.gif" height="100%" />
