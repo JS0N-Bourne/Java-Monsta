@@ -19,20 +19,87 @@
 <br/>
 
 <h2 align="center">Projects</h2>
-<p align="center">Coming soon.</p> 
-
-<img src='https://imgur.com/a/5wI3frn' width='250'/>
-
-
-<a href="//imgur.com/a/YNZmDWk">Random Cocktail App</a>
-
-<a href="//imgur.com/a/iLfEF6R">Hipster virtual vintage calculator</a>
-
-<a href="//imgur.com/a/MBlxvwq">Java-Monsta Portfolio preview</a>
-
-<a href="//imgur.com/a/5wI3frn">Basic calculator</a>
-
-
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Random Cocktail Generator App</h2>
+				<div align="center" >  
+					<a href='https://random-cocktails.netlify.app/'>
+						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/cocktail_generator.gif" alt="Breaking-bad-		infopage" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="REPO LINK GOES HERE" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://random-cocktails.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Gameshow inspired app for users to stumble across random, but great cocktail ideas. Includes targeted search as well.</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">Hipster Virtual Vintage Calculator App</h2>
+				<div align="center" >  
+					<a href='https://hipster-calculator.netlify.app/'>
+						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/hipster_calculator.gif" alt="Pick 'em Drinks!" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="REPO LINK HERE" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://hipster-calculator.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - When modern technology is too amazing to ignore but the heart wants what the heart wants.</p>
+				</div>
+	<tr>
+		<td width="50%">
+			<h3 align="center" color="white">Basic JavaScript Calculator App</h2>
+			<div align="center" >  
+				<a href='https://simply-a-calculator.netlify.app/'>
+					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/basic_calculator.gif" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="REPO LINK HERE" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://https://simply-a-calculator.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - It's simple. It's a calculator. So let's make it count. Oh, and it also multiples and divides!</p>
+			</div>
+		</td>
+		<td width="50%">
+			<h3 align="center" color="white">Personal Portfolio</h2>
+			<div align="center" >  
+				<a href='https://javamonsta.netlify.app/'>
+					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/java_portfolio.gif" alt="portfolio" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="REPO LINK HERE" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://javamonsta.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - Personal portfolio showcasing web design, front and back end coding, graphic design and eCommerce development.</p>
+			</div>	
+		</td>
+	</table>
+</div>
 
 <br/>
 
