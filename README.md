@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/Java-Monsta/Java-Monsta/master/readme_header.png)](https://github.com/Java-Monsta)
 
-<h1 align="center">About Me</h1>
+<h2 align="center">A little about me</h2>
 <h3 align="center">A nationally awarded and versatile software engineer and graphic designer with 20 years experience developing high impact websites, apps, graphics and marketing collateral.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=java-monsta&label=Profile%20views&color=0e75b6&style=flat" alt="java-monsta" /> </p>
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/java_monsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@java_monsta" height="30" width="40" /></a>
+<a href="https://twitter.com/java_monsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="java_monsta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
