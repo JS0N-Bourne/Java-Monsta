@@ -19,11 +19,10 @@
 <br/>
 
 <h2 align="center">Projects</h2>
-<p align="center">Coming soon.</p>
+<p align="center">Coming soon.</p> 
 
-![img]https://i.imgur.com/LdCopAp.mp4[/img]
+[<img src='https://imgur.com/a/5wI3frn' height='40'>](https://github.com/Java-Monsta)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="LdCopAp"><a href="https://imgur.com/LdCopAp">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <a href="//imgur.com/a/YNZmDWk">Random Cocktail App</a>
 
