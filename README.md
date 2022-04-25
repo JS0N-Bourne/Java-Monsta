@@ -15,6 +15,8 @@
 <p align="left">💬 Ask me about <b>all things web and graphic design. And music. I love music.</b></>
 
 <br/>
+<br/>
+<br/>
 
 <h2 align="center">Projects</h2>
 <p align="center">Coming soon.</p>
