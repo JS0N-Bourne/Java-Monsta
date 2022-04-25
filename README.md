@@ -21,6 +21,20 @@
 <h2 align="center">Projects</h2>
 <p align="center">Coming soon.</p>
 
+![img]https://i.imgur.com/LdCopAp.mp4[/img]
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="LdCopAp"><a href="https://imgur.com/LdCopAp">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<a href="//imgur.com/a/YNZmDWk">Random Cocktail App</a>
+
+<a href="//imgur.com/a/iLfEF6R">Hipster virtual vintage calculator</a>
+
+<a href="//imgur.com/a/MBlxvwq">Java-Monsta Portfolio preview</a>
+
+<a href="//imgur.com/a/5wI3frn">Basic calculator</a>
+
+
+
 <br/>
 
 <h2 align="center">Technologies</h2>
