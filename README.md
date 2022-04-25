@@ -21,7 +21,7 @@
 <h2 align="center">Projects</h2>
 <p align="center">Coming soon.</p> 
 
-[<img src='https://imgur.com/a/5wI3frn' height='40'>](https://github.com/Java-Monsta)
+<img src='https://imgur.com/a/5wI3frn' width='250'/>
 
 
 <a href="//imgur.com/a/YNZmDWk">Random Cocktail App</a>
