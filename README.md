@@ -9,7 +9,7 @@
 
 <p align="center">🌱 I’m currently learning <b>APIs, React Native</b></>
 
-<p align="center">👨‍💻 All of my projects are available at [javamonsta.netlify.app](javamonsta.netlify.app)</>
+<p align="center">👨‍💻 All of my projects are available at <b>javamonsta.netlify.app</b></>
 
 <p align="center">💬 Ask me about <b>all things web and graphic design. And music. I love music.</b></>
 
