@@ -57,7 +57,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Game app for users to discover random, but amazing cocktail ideas. Includes targeted search as well as original game background music.</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - Game app for users to discover random, but amazing cocktail ideas. Includes targeted drink search as well.</p>
 				</div>
 	<tr>
 		<td width="50%">
