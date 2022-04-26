@@ -23,10 +23,10 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">Random Cocktail Generator</h2>
+				<h3 align="center" color="white">JavaScript Jeopardy</h2>
 				<div align="center" >  
-					<a href='https://random-cocktails.netlify.app/'>
-						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/cocktail_generator.gif" alt="Breaking-bad-		infopage" height="100%" />
+					<a href='https://jeopardy-online.netlify.app/'>
+						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/jeopardy_app.gif" alt="JavaScript Jeopardy app" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -34,37 +34,37 @@
 						<a href="REPO LINK GOES HERE" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://random-cocktails.netlify.app/" target="_blank">
+						<a href="https://jeopardy-online.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Gameshow inspired app for users to stumble across random, but great cocktail ideas. Includes targeted search as well.</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - JavaScript version of the popular long-running tv quiz gameshow. Questions are pulled from an API database.</p>
 				</div>
 			</td>
 			<td width="50%">
 				<h3 align="center" color="white">Hipster Virtual Vintage Calculator</h2>
 				<div align="center" >  
 					<a href='https://hipster-calculator.netlify.app/'>
-						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/hipster_calculator.gif" alt="Pick 'em Drinks!" height="100%" />
+						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/hipster_app.gif" alt="vintage calculator" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
 						<a href="REPO LINK HERE" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
 						</a>  
 						<a href="https://hipster-calculator.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - When modern technology is too amazing to ignore but the heart wants what the heart wants.</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - When modern technology is too amazing to ignore but the heart wants what the heart wants, plus sheeple wouldn't be caught dead using this.</p>
 				</div>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">Basic JavaScript Calculator</h2>
+			<h3 align="center" color="white">Random Cocktail Generator</h2>
 			<div align="center" >  
-				<a href='https://simply-a-calculator.netlify.app/'>
-					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/basic_calculator.gif" height="100%" />
+				<a href='https://random-cocktails.netlify.app/'>
+					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/cocktail_app.gif" height="100%" />
 				</a>
 				<br>
 				<br>
@@ -72,18 +72,18 @@
 					<a href="REPO LINK HERE" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://https://simply-a-calculator.netlify.app/" target="_blank">
+					<a href="https://random-cocktails.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - It's simple. It's a calculator. So let's make it count. Oh, and it also multiples and divides!</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - Game app for users to discover random, but amazing cocktail ideas. Includes targeted search as well as original game background music.</p>
 			</div>
 		</td>
 		<td width="50%">
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
 				<a href='https://javamonsta.netlify.app/'>
-					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/4da00a07ad97e7b863f360a57d66d9c29d4e4e44/java_portfolio.gif" alt="portfolio" height="100%" />
+					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/java_port.gif" alt="portfolio" height="100%" />
 				</a>
 				<br>
 				<br>
