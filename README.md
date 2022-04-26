@@ -35,17 +35,17 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://jeopardy-online.netlify.app/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5</strong> - JavaScript version of the popular long-running tv quiz gameshow. Questions are pulled from an API database.</p>
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Hipster Virtual Vintage Calculator</h2>
+				<h3 align="center" color="white">Random Cocktail Generator</h2>
 				<div align="center" >  
-					<a href='https://hipster-calculator.netlify.app/'>
-						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/hipster_app.gif" alt="vintage calculator" height="100%" />
+					<a href='https://random-cocktails.netlify.app/'>
+						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/cocktail_app.gif" alt="vintage calculator" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -53,18 +53,18 @@
 						<a href="REPO LINK HERE" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
 						</a>  
-						<a href="https://hipster-calculator.netlify.app/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						<a href="https://random-cocktails.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 						</a>	
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - When modern technology is too amazing to ignore but the heart wants what the heart wants, plus sheeple wouldn't be caught dead using this.</p>
 				</div>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">Random Cocktail Generator</h2>
+			<h3 align="center" color="white">Hipster Virtual Vintage Calculator</h2>
 			<div align="center" >  
-				<a href='https://random-cocktails.netlify.app/'>
-					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/cocktail_app.gif" height="100%" />
+				<a href='https://hipster-calculator.netlify.app/'>
+					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/hipster_app.gif" height="100%" />
 				</a>
 				<br>
 				<br>
@@ -72,8 +72,8 @@
 					<a href="REPO LINK HERE" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://random-cocktails.netlify.app/" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					<a href="https://hipster-calculator.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 					</a>	
 				</p>
 				<p><strong>JavaScript, CSS3, HTML5</strong> - Game app for users to discover random, but amazing cocktail ideas. Includes targeted search as well as original game background music.</p>
@@ -92,7 +92,7 @@
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
 					<a href="https://javamonsta.netlify.app/" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 					</a>	
 				</p>
 				<p><strong>JavaScript, CSS3, HTML5</strong> - Personal portfolio showcasing web design, front and back end coding, graphic design and eCommerce development.</p>
