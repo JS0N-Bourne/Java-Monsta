@@ -95,7 +95,7 @@
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - NASA-powered galaxy first-person pilot viewer with an expected twist.</p>
+				<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - NASA api-powered galaxy viewer with an expected twist. Take a virtual trip through time through a captain's eyes.</p>
 			</div>	
 		</td>
 	</table>
