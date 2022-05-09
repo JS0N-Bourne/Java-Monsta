@@ -80,9 +80,9 @@
 			</div>
 		</td>
 		<td width="50%">
-			<h3 align="center" color="white">Personal Portfolio</h2>
+			<h3 align="center" color="white">NASA Galaxy Viewer</h2>
 			<div align="center" >  
-				<a href='https://javamonsta.netlify.app/'>
+				<a href='https://nasa-viewer-app.netlify.app/'>
 					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/java_port.gif" alt="portfolio" height="100%" />
 				</a>
 				<br>
@@ -91,11 +91,11 @@
 					<a href="REPO LINK HERE" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://javamonsta.netlify.app/" target="_blank">
+					<a href="https://nasa-viewer-app.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Personal portfolio showcasing web design, front and back end coding, graphic design and eCommerce development.</p>
+				<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - NASA-powered galaxy first-person pilot viewer with an expected twist.</p>
 			</div>	
 		</td>
 	</table>
