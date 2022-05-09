@@ -31,7 +31,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="REPO LINK GOES HERE" target="_blank">
+						<a href="https://github.com/Java-Monsta/Jeopardy-Game-app" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://jeopardy-online.netlify.app/" target="_blank">
@@ -50,7 +50,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="REPO LINK HERE" target="_blank">
+						<a href="https://github.com/Java-Monsta/Random-Cocktail-Generator" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
 						</a>  
 						<a href="https://random-cocktails.netlify.app/" target="_blank">
@@ -69,7 +69,7 @@
 				<br>
 				<br>
 				<p>
-					<a href="REPO LINK HERE" target="_blank">
+					<a href="https://github.com/Java-Monsta/Hipster-Calculator-App" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
 					<a href="https://hipster-calculator.netlify.app/" target="_blank">
@@ -83,12 +83,12 @@
 			<h3 align="center" color="white">NASA Galaxy Viewer</h2>
 			<div align="center" >  
 				<a href='https://nasa-viewer-app.netlify.app/'>
-					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/java_port.gif" alt="portfolio" height="100%" />
+					<img src="https://github.com/Java-Monsta/nasa-viewer-app/blob/0a25bec20838e3b2843767580d1aa25140e85e9b/NASAViewer.gif" alt="NASA viewer" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="REPO LINK HERE" target="_blank">
+					<a href="https://github.com/Java-Monsta/nasa-viewer-app" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
 					<a href="https://nasa-viewer-app.netlify.app/" target="_blank">
