@@ -82,7 +82,7 @@
 		<td width="50%">
 			<h3 align="center" color="white">NASA Galaxy Viewer</h2>
 			<div align="center" >  
-				<a href='https://nasa-viewer-app.netlify.app/'>
+				<a href='https://spaceflight.netlify.app/'>
 					<img src="https://github.com/Java-Monsta/nasa-viewer-app/blob/0a25bec20838e3b2843767580d1aa25140e85e9b/NASAViewer.gif" alt="NASA viewer" height="100%" />
 				</a>
 				<br>
@@ -91,7 +91,7 @@
 					<a href="https://github.com/Java-Monsta/nasa-viewer-app" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://nasa-viewer-app.netlify.app/" target="_blank">
+					<a href="https://spaceflight.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 					</a>	
 				</p>
