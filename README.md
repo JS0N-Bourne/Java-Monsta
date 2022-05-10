@@ -61,7 +61,7 @@
 				</div>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">Hipster Virtual Vintage Calculator</h2>
+			<h3 align="center" color="white">Hipster Vintage Calculator</h2>
 			<div align="center" >  
 				<a href='https://hipster-calculator.netlify.app/'>
 					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/hipster_app.gif" height="100%" />
