@@ -64,7 +64,7 @@
 			<h3 align="center" color="white">Hipster Vintage Calculator</h2>
 			<div align="center" >  
 				<a href='https://hipster-calculator.netlify.app/'>
-					<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/hipster_app.gif" height="100%" />
+					<img src="https://github.com/Java-Monsta/Hipster-Calculator-App/blob/d46e12b1e0915c90a984a6ff01df732718298a95/hipstercalc.gif" height="100%" />
 				</a>
 				<br>
 				<br>
