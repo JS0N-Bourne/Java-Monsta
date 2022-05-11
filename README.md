@@ -98,6 +98,44 @@
 				<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - NASA api-powered galaxy viewer with an expected twist. Take a virtual trip through time through a captain's eyes.</p>
 			</div>	
 		</td>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">JavaScript Jeopardy</h2>
+				<div align="center" >  
+					<a href='https://jeopardy-online.netlify.app/'>
+						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/e4c5e6a22099fa92363ebaffb90252a20fad5084/jeopardy_preview.gif" alt="JavaScript Jeopardy app" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/Java-Monsta/Jeopardy-Game-app" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://jeopardy-online.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - JavaScript version of the popular long-running tv quiz gameshow. Questions are pulled from an API database.</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">Random Cocktail Generator</h2>
+				<div align="center" >  
+					<a href='https://random-cocktails.netlify.app/'>
+						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/1b1ebeb99eaa60c3037924ff492f2b0e403b780c/cocktail_app.gif" alt="vintage calculator" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/Java-Monsta/Random-Cocktail-Generator" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
+						</a>  
+						<a href="https://random-cocktails.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
+						</a>	
+					</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - Game app for users to discover random, but amazing cocktail ideas. Includes targeted drink search as well.</p>
+				</div>
 	</table>
 </div>
 
