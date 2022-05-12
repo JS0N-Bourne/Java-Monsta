@@ -115,7 +115,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - This San Antonio-based CPA firm needed a decades-late update to their online presence and marketing collateral.</p>
+					<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - This San Antonio-based CPA firm needed a decades-late update to their online presence.</p>
 				</div>
 			</td>
 			<td width="50%">
