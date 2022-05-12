@@ -76,7 +76,7 @@
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - When modern technology is too amazing to ignore but the heart wants what the heart wants, plus sheeple wouldn't be caught dead using this.</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - When modern technology is too amazing to ignore but the heart wants what the heart wants, plus sheeple won't be using this.</p>
 			</div>
 		</td>
 		<td width="50%">
