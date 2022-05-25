@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/Java-Monsta/Java-Monsta/blob/ffd20f1fafa270eccfd829196333e352fcab7fe6/gitProfilereverse.png#gh-light-mode-only)
-![MasterHead](https://github.com/Java-Monsta/Java-Monsta/blob/81308ffece1fae48a6c24968cebd7f4fb4de17bd/gitProfileinverse.png#gh-dark-mode-only)
+![MasterHead](https://github.com/Java-Monsta/Java-Monsta/blob/d8802f4d80b40ccabd3c66db7f0788e2af3824fe/blacklight.png#gh-light-mode-only)
+![MasterHead](https://github.com/Java-Monsta/Java-Monsta/blob/d8802f4d80b40ccabd3c66db7f0788e2af3824fe/orangedark.png#gh-dark-mode-only)
 
 <p align="center">A versatile software engineer and graphic designer highly experienced with developing high impact websites, apps and graphics. I’m a full stack developer who can articulate my ideas in an effective, compelling way.</p>
 
